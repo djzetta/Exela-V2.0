@@ -145,3 +145,4 @@ if __name__ == "__main__":
     for f in range(3):  # obfuscate for 3 time u can make 15000 xd
         Obfuscator.Main()
     print(f"The code obfuscated on {str(time.time() - t)} second\n")
+
